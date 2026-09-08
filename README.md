@@ -9,7 +9,7 @@
  - 4ª feira, 16:00-18:00, [T]
 
 **Info**
- - [Informações gerais (provisórias)](https://github.com/jtrindade/isel-leic-psc-info/blob/main/README.pt.md)
+ - [Informações gerais](https://github.com/isel-leic-psc/.github/blob/main/profile/README.pt.md)
 
 **Moodle**
  - [Central](https://2627moodle.isel.pt/course/view.php?id=11146)
