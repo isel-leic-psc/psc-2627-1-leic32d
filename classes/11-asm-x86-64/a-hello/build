@@ -1,0 +1,5 @@
+#!/bin/sh
+
+as --noexecstack -o hello.o hello.s
+gcc -no-pie -o hello hello.o
+
